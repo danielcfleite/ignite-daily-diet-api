@@ -1,0 +1,13 @@
+#dependencies
+node_modules
+#database
+db/*.db
+
+#envoirment
+.env
+.env.test
+
+#build
+build
+
+/*.md
