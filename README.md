@@ -1,11 +1,18 @@
-O Daily Diet é um aplicativo para registar as refeições feitas e ter dados sobre a dieta - mais especificamente, se está sendo seguida. 
+<h1 align="center"> Daily Diet! </h1>
+
+<p align="center">
+This project is the back-end of Daily Diet, an app in which you can register your meals and see if it's following your diet or not. 
+
+<br>
 
 
+## 🚀 Technologies
 
-Criação de rota de usuário: possibildiade de registrar, logar e receber um sumário das últimas atividades - quantas refeições, quantas estão dentro da dieta no total, quantas não estão dentro da dieta no total e o maior número consecutivo de alimentações dentro da dieta
+This project uses the following technologies: 
 
-Criação de rota de refeições: possibildiade de registrar, visualizar e deletar refeições 
-
-
-
-Knex - Typescript - Node - Fastify - SQLite - Zod 
+- Knex
+- Typescript
+- Node
+- Fastify
+- SQLite
+- Zod 
